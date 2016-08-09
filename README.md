@@ -21,3 +21,7 @@ Write a Java program to
 	d. Print the total number of Numeric characters at the end of the file (Ex. Number of numeric Characters:20)
 
 3. Write Junit test cases to verify the functionality
+
+4. Upload X12-3 along with your source code 
+
+
