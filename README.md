@@ -19,6 +19,8 @@ Write a Java program to
 	b. Convert all Uppercase letters to Lowercase letters
 	c. Print the total number of lines at the end of the file (Ex. Number of Lines:20)
 	d. Print the total number of Numeric characters at the end of the file (Ex. Number of numeric Characters:20)
+	e. Find all the dates(yyyy-mm-dd) from X12-3 and print the Minimum Date and Maximum Date at the end of the file in the 		   following format (mm-dd-yy) 
+	   (Ex, Min Date: 05-23-09 & Max Date: 07-21-17)
 
 3. Write Junit test cases to verify the functionality
 
