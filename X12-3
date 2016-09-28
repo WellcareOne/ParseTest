@@ -1,0 +1,87 @@
+isa*00*          *00*          *zz*99999999999    *zz*888888888888   *111219*1340*^*00901*000001377*0*t
+gs*hc*99999999999*888888888888*20111219*1340*1377*x*009010x222
+st*837*0001*009010x222
+bht*0019*00*969743*2016-09-23*194999*ch
+nm1*41*2*sample inc*****46*496103
+per*ic*edi dept*em*feedback@1edisource.com*te*3309991212
+nm1*40*2*ppo blue*****46*94771
+hl*1**20*1
+prv*bi*pxc*333600000x
+nm1*89*2*edi specialty sample*****xx*123496789
+n3*1212 depot drive
+n4*chicago*il*606930199
+ref*ei*300123496
+hl*2*1*22*1
+sbr*p********bl
+nm1*il*1*customer*karen****mi*yyx123496789
+n3*228 pineapple circle
+n4*cora*pa*19108
+dmg*d8*19630629*m
+nm1*pr*2*ppo blue*****pi*94771
+n3*po box 12349
+n4*camp hill*pa*17089
+hl*3*2*23*0
+pat*19
+nm1*qc*1*customer*cole
+n3*228 pineapple circle
+n4*cora*pa*19108
+dmg*d8*19940921*m
+clm*949409*9332.94***12>b>1*y*a*y*y*p
+hi*bk>2933
+lx*1
+sv1*hc>j2941*9332.94*un*84***1
+dtp*472*rd8*2012-09-11*2013-09-11
+ref*6r*1099999731
+nte*add*generic 12mg cartridge
+lin**n4*00013264681
+ctp****7*un
+nm1*dk*1*patient*deborah****xx*12349679030
+n3*123 main st*apt b
+n4*pittsburgh*pa*192181871
+se*39*0001
+ge*1*1377
+iea*1*000001377
+isa*00* *00* *zz*nehen1234 *zz*nehen003
+*110610*1009*^*00901*111112223*0*p*
+gs*hc*00000003b*nehen003*2019-06-10*160744*123496789*x*009010x223a2
+st*837*123496789*009010x223a2
+bht*0019*00*00012349*2017-06-10*123496*ch
+nm1*41*2*hospital name*****46*nehen1234
+per*ic*contact name*te*6179991212*fx*7819991212
+nm1*40*2*harvard pilgrim health care*****46*nehen003
+hl*1**20*1
+prv*bi*pxc*282n00000x
+nm1*89*2*hospital name*****xx*1999999999
+n3*hospital street address
+n4*city*ma*123491234
+ref*ei*012349678
+hl*2*1*22*0
+sbr*p*18*******ci
+nm1*il*1*p-last*p-first****mi*hp349678901
+n3*subscriber street address
+n4*city*ma*123491234
+dmg*d8*19610101*f
+nm1*pr*2*harvard pilgrim ppo*****pi*04271
+n3*po box 699183
+n4*quincy*ma*022699183
+clm*999991234*129***13:a:1**a*y*y
+dtp*434*rd8*2012-06-01*2014-06-01
+cl1*3*2*01
+ref*d9*99999991212
+ref*ea*1234967
+hi*bk:7262
+hi*pr:7262
+hi*bf:3940
+hi*bh:11:d8:2014-06-01*bh:a1:d8:19970106*bh:a2:d8:2014-06-01
+hi*be:90:::1
+nm1*71*1*doc-last*doctor****xx*1888888888
+lx*1
+sv2*0420*hc:97110*129*un*1
+dtp*472*d8*2013-06-01
+se*39*123496789
+ge*1*123496789
+iea*1*111112223
+Number of Lines: 83
+Number of Numerics: 890
+Min Date: 06-01-12
+Max Date: 06-10-19
